@@ -1,0 +1,42 @@
+.nav{
+    height: 71px;
+    box-shadow: 0px 1px 8px #888888;
+    display: flex;
+    
+    margin-left: 10px;
+    object-fit: contain;
+    margin-right: 15px;
+    margin-top: 18px;
+    align-items: center;
+    background-color: white;
+    
+}
+.nav-items{
+    margin-top: 100px;
+}
+.icon{
+flex: 0.5;
+
+}
+
+.input{
+    padding: 5px;
+    border-radius: 10px;
+    width: 250px;
+    height: 20px;
+    margin-right: 20px;
+}
+
+.button{
+   margin-left: 10px;
+   width: 120px;
+   height: 35px;
+   border-radius: 20px;
+   background-color: purple;
+   color: white;
+}
+
+.search{
+    padding: 20px;
+    left:0;
+}
